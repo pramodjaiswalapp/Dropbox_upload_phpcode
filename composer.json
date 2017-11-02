@@ -1,0 +1,5 @@
+{
+    "require": {
+        "alorel/dropbox-v2-php": "^0.4.2"
+    }
+}
